@@ -98,5 +98,5 @@ OBtravel/
 
 1. Cloner le projet :
 ```bash
-git clone https://github.com/votre-utilisateur/OBtravel.git
+git clone https://github.com/OB1SP/OBtravel.git
 
